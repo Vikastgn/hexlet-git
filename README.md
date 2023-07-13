@@ -1,1 +1,1 @@
-Hello, Hexlet! How are you?
+novode no pain
